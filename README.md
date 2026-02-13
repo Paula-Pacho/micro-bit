@@ -22,9 +22,9 @@ Aquest repositori recull materials didàctics, guies de configuració i projecte
 
 
 * **/Projectes**
-* **micro:shield**: Control de servomotors, motors de corrent continu i sensors externs.
-* **iot:bit**: Connexió a la xarxa, enviament de dades al núvol i projectes de ciutat intel·ligent.
-* **AI Lens**: Introducció a la intel·ligència artificial (reconeixement de colors, cares i seguidor de línies).
+* micro:shield: Control de servomotors, motors de corrent continu i sensors externs.
+* iot:bit: Connexió a la xarxa, enviament de dades al núvol i projectes de ciutat intel·ligent.
+* AI Lens: Introducció a la intel·ligència artificial (reconeixement de colors, cares i seguidor de línies).
 
 
 🚀 **Com començar**
